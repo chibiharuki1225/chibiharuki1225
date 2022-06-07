@@ -3,18 +3,18 @@
 - 🌱 I’m currently learning cardano, crosschain, core blockchain tech...
 - 💞️ I’m looking to collaborate on blockchain companies
 
-Here are my skills :
-■ BLOCKCHAIN: Smart Contract, Solidty, Rust, Haskell, Anchor, Plutus, Truffle, Hardhat
-■ FRONTEND: React/Redux, NextJS, VueJS
-■ BACKEND: Node/Express, Go, C#/.NET, Django, Laravel
-■ WEB 3: web3, ether, moralis, covalent, trueblock, chainstack, justcube
-■ DATABASE: MySQL, PostgreSQL, SQLite, Mongo, GraphQL/Apollo
-■ CLOUD SERVER, CI/CD:  AWS, Azure, GCP, Plesk, Digitalocean, Heroku
-■ TASK MANAGEMENT: Trello, Jira, Pivotal Tracker, Asana, Basecamp, Bugzilla
-■ VERSION MANAGEMENT: Github, Bitbucket, Gitlab, CI/CD tools
+## Here are my skills :
+# BLOCKCHAIN: Smart Contract, Solidty, Rust, Haskell, Anchor, Plutus, Truffle, Hardhat
+# FRONTEND: React/Redux, NextJS, VueJS
+# BACKEND: Node/Express, Go, C#/.NET, Django, Laravel
+# WEB 3: web3, ether, moralis, covalent, trueblock, chainstack, justcube
+# DATABASE: MySQL, PostgreSQL, SQLite, Mongo, GraphQL/Apollo
+# CLOUD SERVER, CI/CD:  AWS, Azure, GCP, Plesk, Digitalocean, Heroku
+# TASK MANAGEMENT: Trello, Jira, Pivotal Tracker, Asana, Basecamp, Bugzilla
+# VERSION MANAGEMENT: Github, Bitbucket, Gitlab, CI/CD tools
 
 
-About me:
+## About me:
 * bachelor's degree in Computer Science.
 * Flexible working time 
 * Like to work in the team.
